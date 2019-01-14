@@ -1,0 +1,3 @@
+Desktop/Clojure/lein.bat self-install
+
+Desktop/Clojure/lein.bat repl
